@@ -35,8 +35,8 @@ function draw() {
       wall.shapeColor=color(0,255,0);
     }
     }
-  }
-  drawSprites();
+  
+  drawSprites();}
 
 function hasCollided(lbullet,lwall)
 {
